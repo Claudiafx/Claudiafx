@@ -5,7 +5,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;We are a group of two, our aim is to make you use the bots we build in a positive way.\
-🌱 &nbsp;We use this profile in common. You can access our main accounts from our discord profile or write to github search       ✍️ <schawnrabbiallizm/iLucasxd>
+🌱 &nbsp;We use this profile in common. You can access our main accounts from our discord profile or write to github search\
+✍️ <schawnrabbiallizm/iLucasxd>
 
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
