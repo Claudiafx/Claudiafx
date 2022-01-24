@@ -1,4 +1,4 @@
-### Hello I'm Claudia
+### Hello I'm Selahattin ACAR
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Claudiafx&color=dc143c)&nbsp;
 [![GitHub acarfx](https://img.shields.io/github/followers/Claudiafx?label=follow&style=social)](https://github.com/Claudiafx)&nbsp;
@@ -6,7 +6,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Turkey, Ankara Başkent University (2017-2021).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, piano, violin, Turkish Saz, music and pursue writing as my hobbies.
 
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -20,6 +19,6 @@
 <a href="mailto:lucascia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/585538770196103168"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=red" /></a> &nbsp;
 <a href="https://discord.com/users/897472512575815732"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/canervac"><img src="https://img.shields.io/badge/@Claudiafx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/canervac"><img src="https://img.shields.io/badge/@Claudiafx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/canervac"><img src="https://img.shields.io/badge/@canervac-E4405F?style=flat&logo=Instagram&logoColor=black"/></a> &nbsp;
+<a href="https://instagram.com/lucascim.dlll"><img src="https://img.shields.io/badge/@lucascim.dlll-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
