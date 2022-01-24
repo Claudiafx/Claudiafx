@@ -17,6 +17,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
+<a href="https://github.com/schawnrabbializm"><img alt="Gmail" src="https://img.shields.io/badge/Github-D14836?style=flat&logo=github&logoColor=black" /></a> &nbsp;
 <a href="mailto:schawnresmi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=black" /></a> &nbsp;
 <a href="mailto:lucascia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/585538770196103168"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=black" /></a> &nbsp;
