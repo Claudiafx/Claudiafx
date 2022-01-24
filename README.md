@@ -1,7 +1,7 @@
-### Hello I'm Claudiafx <schawn/lucas>
-![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+### Hello I'm Claudiafx | <schawn/lucas>
+![version :24.0.202](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Claudiafx&color=dc143c)&nbsp;
-[![GitHub acarfx](https://img.shields.io/github/followers/Claudiafx?label=follow&style=social)](https://github.com/Claudiafx)&nbsp;
+[![GitHub Claudiafx](https://img.shields.io/github/followers/Claudiafx?label=follow&style=social)](https://github.com/Claudiafx)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Turkey, Ankara Başkent University (2017-2021).\
@@ -21,4 +21,11 @@
 <a href="https://discord.com/users/897472512575815732"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/canervac"><img src="https://img.shields.io/badge/@canervac-E4405F?style=flat&logo=Instagram&logoColor=black"/></a> &nbsp;
 <a href="https://instagram.com/lucascim.dlll"><img src="https://img.shields.io/badge/@lucascim.dlll-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+## 📈 Github Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Claudiafx&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudiafx&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
 
