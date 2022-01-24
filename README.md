@@ -1,11 +1,11 @@
 ### Hello I'm Claudiafx | <schawn/lucas>
-![version :24.0.202](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![version :24.0.202](https://img.shields.io/badge/version-24.0.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Claudiafx&color=dc143c)&nbsp;
 [![GitHub Claudiafx](https://img.shields.io/github/followers/Claudiafx?label=follow&style=social)](https://github.com/Claudiafx)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;We are a group of two, our aim is to make you use the bots we build in a positive way.\
-🌱 &nbsp;We use this profile in common. You can access our main accounts from our discord profile or write to github search <schawnrabbiallizm/iLucasxd\
+🌱 &nbsp;We use this profile in common. You can access our main accounts from our discord profile or write to github search  ✍️ <schawnrabbiallizm/iLucasxd\
 
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
